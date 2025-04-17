@@ -5,7 +5,7 @@ A tutorial repository for testing OpenImpact Lab integrations and workflows. Thi
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
-- [How to Run the Program](#How to Run the Program)
+- [How to Run the Program](#How-to-Run-the-Program)
 
 - ## Introduction
 
