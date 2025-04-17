@@ -5,6 +5,7 @@ A tutorial repository for testing OpenImpact Lab integrations and workflows. Thi
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+- [How to Run the Program](#How to Run the Program)
 
 - ## Introduction
 
@@ -28,3 +29,18 @@ We welcome contributions from everyone! Here’s how you can help:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## How to Run the Program
+
+To run the 'Hello, World!' program, follow these steps:
+
+1.  Make sure you have Python installed on your machine.
+2.  Open your terminal or command prompt.
+3.  Navigate to the directory where `hello.py` is located.
+4.  Run the following command:
+
+    ```bash
+    python hello.py
+    ```
+
+    You should see "Hello, World!" printed in your terminal.
