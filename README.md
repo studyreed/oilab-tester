@@ -43,4 +43,9 @@ To run the 'Hello, World!' program, follow these steps:
     python hello.py
     ```
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
     You should see "Hello, World!" printed in your terminal.
